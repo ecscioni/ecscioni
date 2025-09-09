@@ -39,7 +39,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ecscioni/ecscioni/output/github-contribution-grid-snake.svg" alt="streak stats" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ecscioni/ecscioni/output/github-snake-dark.svg" />
+        <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ecscioni/ecscioni/output/github-snake.svg" />
+    </picture>
+
   
   <br/><br/><br/>
 </div>
