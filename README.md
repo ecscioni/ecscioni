@@ -5,7 +5,7 @@
 > “So many falls that the standards loosened; my shadow walks on its own.”
 
 ## "Experience"
-Undergraduate at Fontys ICT (AI/ML), running interactive studies in machine-shaped learning—teaching small artificial agents to behave on purpose.  
+Undergraduate at Fontys ICT (AI/ML), running interactive studies in machine-shaped learning, teaching small artificial agents to behave on purpose.  
 Apprentice in responsible overfitting: controlled datasets, measurable regret, and reproducible notebooks (including the confusion).  
 Acting Assistant to the Deputy Trainee of “Hello, World,” specializing in turning tutorials into slightly different tutorials.  
 Exporter of “Works On My Laptop” to “Works Outside My Laptop,” with a rising success rate and fewer ritual restarts. 
