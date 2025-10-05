@@ -28,10 +28,11 @@ Focus: statistically validated guesswork and artisanal tensors. Building tiny th
 - Python programming
 - Machine learning & how models work
 - Remaining Useful Life (RUL)
-- Mathematics (pre-calculus): rebuilding functions, trig, limits, so matrices stop bullying me in public.
-- Vim keybindings: motions, macros, muscle memory; they don’t shoot lasers, it’s sharks now.
-- Obsidian + LaTeX (VimTeX): tidy notes → tidy PDFs; macros behaving (mostly).
-- Extra credit: department-approved aura coding, revoked pending ethics; practicing ethically-sourced gradient whispering.
+- Mathematics (pre-calculus): so matrices stop bullying me in public.
+- Vim keybindings
+- Obsidian + LaTeX (VimTeX)
+
+Extra credit: department-approved aura coding, revoked pending ethics; practicing ethically-sourced gradient whispering.
   
 ## Contact
 Email me: ecsdebritocioni@gmail.com  
