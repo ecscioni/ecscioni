@@ -22,7 +22,7 @@ Exporter of “Works On My Laptop” to “Works Outside My Laptop,” with a ri
 - If it’s not in a repo, it’s a rumor.
 
 ## Currently Learning
-Studying at Fontys University of Applied Sciences—Department of Optimistic Debugging and Machine-Shaped Learning.  
+Studying at Fontys University of Applied Sciences Department of Optimistic Debugging and Machine-Shaped Learning.  
 Focus: statistically validated guesswork and artisanal tensors. Building tiny things that fail loudly and then behave.
 
 - Python programming: small tools, cleaner functions, fewer print-based investigations.
