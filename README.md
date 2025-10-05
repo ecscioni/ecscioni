@@ -14,7 +14,7 @@ Exporter of “Works On My Laptop” to “Works Outside My Laptop,” with a ri
 - I break models politely until they confess their loss function.  
 - Training myself and my models. One of us is converging.  
 - I read docs after I ship. Growth mindset, but with commit history.  
-- Self-deprecation enabled: I am a beginner engineered for unreasonable persistence.
+- I am a beginner engineered for unreasonable persistence.
 
 ## Operating Principles
 - Ship small, ask good questions, version everything.  
@@ -29,7 +29,7 @@ Focus: statistically validated guesswork and artisanal tensors. Building tiny th
 - Machine learning & how models work: loss functions, train/val/test splits, over/underfitting, gradient-descent intuition.
 - Remaining Useful Life (RUL): NASA C-MAPSS (starting FD001), predicting cycles left; MAE = average mistake in cycles.
 - Mathematics (pre-calculus): rebuilding functions, trig, limits, so matrices stop bullying me in public.
-- Vim keybindings: motions, macros, muscle memory; they don’t shoot lasers—it’s sharks now.
+- Vim keybindings: motions, macros, muscle memory; they don’t shoot lasers, it’s sharks now.
 - Obsidian + LaTeX (VimTeX): tidy notes → tidy PDFs; macros behaving (mostly).
 - Extra credit (satire): department-approved aura coding, revoked pending ethics; practicing ethically-sourced gradient whispering.
   
