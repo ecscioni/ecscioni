@@ -25,9 +25,9 @@ Exporter of “Works On My Laptop” to “Works Outside My Laptop,” with a ri
 Studying at Fontys University of Applied Sciences Department of Optimistic Debugging and Machine-Shaped Learning.  
 Focus: statistically validated guesswork and artisanal tensors. Building tiny things that fail loudly and then behave.
 
-- Python programming: small tools, cleaner functions, fewer print-based investigations.
-- Machine learning & how models work: loss functions, train/val/test splits, over/underfitting, gradient-descent intuition.
-- Remaining Useful Life (RUL): NASA C-MAPSS (starting FD001), predicting cycles left; MAE = average mistake in cycles.
+- Python programming
+- Machine learning & how models work
+- Remaining Useful Life (RUL)
 - Mathematics (pre-calculus): rebuilding functions, trig, limits, so matrices stop bullying me in public.
 - Vim keybindings: motions, macros, muscle memory; they don’t shoot lasers, it’s sharks now.
 - Obsidian + LaTeX (VimTeX): tidy notes → tidy PDFs; macros behaving (mostly).
