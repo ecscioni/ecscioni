@@ -5,8 +5,7 @@
 > “So many falls that the standards loosened; my shadow walks on its own.”
 
 ## "Experience"
-Undergraduate at Fontys ICT (AI/ML), running interactive studies in machine-shaped learning, teaching small artificial agents to behave on purpose.  
-Apprentice in responsible overfitting: controlled datasets, measurable regret, and reproducible notebooks (including the confusion).  
+I am an AI engineering student at Fontys ICT specializing in applied machine intelligence, conducting precision-controlled Python development within GitHub-based version orchestration. I integrate mathematical modeling, neural abstraction, and trigonometric analysis as foundations for advanced ML pipelines built under CRISP-DM methodology, aiming toward autonomous data cognition through modular algorithmic refinement.
 Acting Assistant to the Deputy Trainee of “Hello, World,” specializing in turning tutorials into slightly different tutorials.  
 
 ## What I’m Like
